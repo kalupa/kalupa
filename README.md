@@ -1,4 +1,4 @@
-<html><head><meta name="viewport" content="width=device-width, initial-scale=1.0"><title> P A U . L K</title><link rel="amphtml" href="https://pau.lk/amp/"></head><body> <table width="100%" height="100%"> <tr><td> <div align="center"><H1><font face="Courier New"><big><big><font size="6"><font color="#ff00ff"><H1><a href="https://pau.lk">HTTPS://PAU.LK</a></H1></font></font></big></big></font></H1></div> </td></tr> </table> </body> </html>
+[HTTPS://PAU.LK](HTTPS://PAU.LK)
 <!--
                                       metaname=
                                   "viewport"content
