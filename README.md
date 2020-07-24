@@ -1,4 +1,4 @@
-# [HTTPS://PAU.LK](HTTPS://PAU.LK)
+<div style="display:grid;grid-auto-rows:100vw;height:100vh"><h1 style="font-family:'Courier New';color:rgb(255,0,255);align-self:center;text-align:center;">HTTPS://PAU.LK</h1></div>
 <!--
                                       metaname=
                                   "viewport"content
